@@ -1,0 +1,70 @@
+a {
+	color: red;
+	text-decoration: none;
+}
+
+.myclass {
+	color: red;
+}
+
+.box{
+	width:300px;
+	height: 200px;
+	margin-left: 10px;
+	float: left;
+	border: 1px solid grey;
+}
+
+.day {
+	background: red;
+	color: #fff;
+}
+
+.night {
+	background: black;
+	color: #fff;
+}
+
+#kutija{
+	margin-top: 50px;	
+	width: 200px;
+	height: 200px;
+	background: blue;
+}
+
+#btn{
+	margin-top: 10px;
+}
+
+.clearfix{
+	clear: both;
+}
+
+#wrapp{
+	width: 40%;
+	border: 1px solid gray;
+	margin: 20px auto;
+}
+
+.tabovi{
+	width: 100%;
+}
+
+.naslovi{
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+	background: blue;
+	color:yellow;
+	text-align: center;
+	border-bottom:1px solid black;
+	font-size: 1.3em;
+}
+
+.podnaslovi{
+	text-align: center;
+	background: green;
+	color: white;
+	border-top:1px solid silver;
+	display: none;
+}
